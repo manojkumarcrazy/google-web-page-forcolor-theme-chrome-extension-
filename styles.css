@@ -1,0 +1,176 @@
+*
+
+
+[selected].YmvwI {
+    color: #09df0f !important;
+    border-bottom: 3px solid #f2f200 !important;
+    padding-bottom: 8px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
+    font-style: italic !important;
+}
+.YmvwI {
+    display: flex;
+    height: 20px;
+    color: #e9ff00 !important; 
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    width: fit-content;
+    padding-bottom: 10px;
+    align-items: center;
+    justify-content: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 14px;
+    font-style: italic !important;
+}
+.Lu57id {
+    color: #b9eb0a !important;
+    display: flex;
+    align-items: center;
+    column-gap: 2px;
+    font-family: Google Sans,Arial,sans-serif-medium,sans-serif;
+    padding: 2px 8px 0 12px;
+    border-radius: 12px;
+    height: 30px;
+    background-color: #c6185d !important;
+    font-style: italic;
+}
+.VuuXrf {
+    color: #00ff87 !important;
+    font-size: 18px !important;
+    display: inline-block !important;
+    line-height: 20px;
+    white-space: nowrap;
+    font-family: sans-serif !important;
+    font-style: italic !important;
+}
+a:visited {
+    color: #eaee0c !important;
+    font-style: italic !important;
+}
+a {
+    color: #07e6ff !important;
+    font-style: italic !important;
+    text-decoration: none;
+    -webkit-tap-highlight-color: rgb(151 20 20 / 10%);
+}
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+    border-radius: 50px !important;
+/* color: #071aff !important; */
+    background-color: rgb(105, 141, 23) !important;
+}
+.gLFyf {
+    resize: none;
+    background-color: #1b73336e !important;
+    border: none;
+    margin: 0;
+    padding: 0 0 3px;
+    color: #ffd900 !important;
+    word-wrap: break-word;
+    outline: none;
+    display: flex;
+    -webkit-tap-highlight-color: #d82323 !important;
+    border-radius: 15px !important;
+    font-style: italic !important;
+}
+.iblpc {
+    display: flex;
+    align-items: center;
+    padding-right: 6px;
+    padding-left: 14px;
+    margin-top: -2px;
+    height: 46px;
+    background-color: #9bba116e !important;
+    border-radius: 20px !important;
+    border-top: #1b73336e !important;
+}
+.Tg7LZd {
+    height: 44px;
+    width: 44px;
+    background: #bd1b1b !important; 
+    border: none;
+    cursor: pointer;
+    flex: 0 0 auto;
+    padding: 0;
+    border-radius: 20px !important;
+}
+.zgAlFc {
+    background: none;
+    color: #88bd18 !important;
+    height: 24px;
+    width: 24px;
+    margin: auto;
+}
+:root {
+    --gS5jXb: #1080f0 !important;
+    --Aqn7xd: #071aff !important;
+    --EpFNW: #2a3440 !important;
+    --IXoxUe: #dcff00 !important;
+    --bbQxAb: #d41515 !important;
+    --YLNNHc: #01fbff !important;
+    --TMYS9: #214175 !important;
+    --JKqx2: #00ff3e !important;
+    --rrJJUc: #a8c7fa !important;
+    --mXZkqc: #1b7356 !important;
+    --Nsm0ce: #a8c7fa !important;
+    --XKMDxc: #1166bc !important;
+    --aYn2S: #202e66 !important;    
+    --Lm570b: #1f284c !important;
+}
+.r025kc.lVm3ye {
+    color: #82cf09 !important;
+}
+:root {
+    --COEmY: #ae0c0c;
+    /* --xhUGwc: #216379 !important; */
+    border-radius: 20px !important;
+}
+.Cv2Brc {
+    font-size: 14px;
+    line-height: 1.58;
+    color: #138640 !important;
+    font-style: italic !important;
+}
+.q8U8x {
+    font-family: Google Sans,Arial,sans-serif;
+    font-weight: 400;
+    color: #138640 !important;
+    font-style: italic !important;
+}
+.usJj9c .zz3gNc {
+    overflow: hidden;
+    color: #ffda03 !important;
+    overflow: ellipsis;
+    max-width: 568px;
+}
+.lJ9FBc input[type="submit"], .gbqfba {
+    background-color: #5b1919 !important;
+    border: 1px solid #c6eb10 !important;
+    border-radius: 4px;
+    color: #00eb0e !important;
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+    border-radius: 20px !important;
+}
+.gb_Ja:not(.gb_wd)::after {
+    content: "";
+    border: 1px solid #202124;
+    opacity: .13;
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px !important;
+}
